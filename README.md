@@ -153,7 +153,7 @@ The project utilizes data from:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-org/bilkit-powerpi.git
+git clone https://github.com/dpak22555-org/bilkit-powerpi.git
 cd bilkit-powerpi
 ```
 
